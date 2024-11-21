@@ -1,6 +1,6 @@
-# Laravel + JetStream + React + Shadcn/ui + InertiaJS Starter Template
 
-![Laravel + JetStream + React + Shadcn/ui + InertiaJS Starter Template]
+# Laravel + JetStream + React + Shadcn/ui + InertiaJS Starter Template
+![Laravel + JetStream + React + Shadcn/ui + InertiaJS Starter Template](https://github.com/user-attachments/assets/fc4f6f82-b9e2-4da6-a8f3-7202244bac07)
 
 This is a SaaS template to start building a your saas with multitenancy quickly.
 Feel free to customize this template to fit the specific needs of your Laravel application!
